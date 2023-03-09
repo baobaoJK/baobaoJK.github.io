@@ -35,7 +35,7 @@ $(function(){
 
         // 执行
         $(function () {
-            var futureTime = "2023-5-24 01:00:00";
+            var futureTime = "2023-3-11 01:00:00";
             runTime(futureTime);
             $(".tips").text(futureTime);
         });
